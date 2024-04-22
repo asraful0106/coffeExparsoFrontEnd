@@ -1,0 +1,14 @@
+.rancho-regular {
+    font-family: "Rancho", cursive;
+    font-weight: 400;
+  }
+
+  .raleway{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+  }
+  .bg_image_addNewCoffee{
+    background-image: url("/public//images/more/11.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
